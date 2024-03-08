@@ -3,7 +3,6 @@
 <template>
   <TheHeader />
   <slot />
-  <TheFooter />
 </template>
 
 <style scoped></style>

@@ -11,11 +11,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#345678',
-        secondary: ' #BCA987',
+        primary: '#e93423',
+        secondary: ' #3e3f90',
         accent: '#89ABCDEF',
 
       },
+      backgroundImage: {
+      }
     },
   },
   extend: {},
