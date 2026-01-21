@@ -42,7 +42,7 @@
                 </div>
                 <p class="mt-10">
                     Located inside<br>
-                    Hacienda Iguana Golf &amp; BeachResort<br>
+                    Hacienda Iguana Golf &amp; Beach Resort<br>
                     La Joya Plaza<br>
                     Tola Nicaragua
                 </p> 
