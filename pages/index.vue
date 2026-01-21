@@ -40,9 +40,14 @@
                 <div class="md:block flex-1 mt-20">
                     <img class="p-10 xs:max-w-xs sm:max-w-md md:max-w-xl mx-auto" src="~/assets/img/logo-nobg.png" alt="mockup">
                 </div>
-                <p class="mt-10">Located at Plaza Riviera del Tola on the 2nd Floor</p> 
+                <p class="mt-10">
+                    Located inside<br>
+                    Hacienda Iguana Golf &amp; Beach Resort<br>
+                    La Joya Plaza<br>
+                    Tola Nicaragua
+                </p> 
                 <div class="mt-4 p-2 max-w-lg mx-auto flex flex-wrap space-x-2">
-                    <a href="https://maps.app.goo.gl/dccQD2fBSFSivPiHA" class="flex-auto inline-flex mb-5 justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary hover:bg-primmary focus:ring-4 focus:ring-accent">
+                    <a href="https://maps.app.goo.gl/aUxAbd7e2PcoctmB9" class="flex-auto inline-flex mb-5 justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary hover:bg-primmary focus:ring-4 focus:ring-accent">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
                             <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
